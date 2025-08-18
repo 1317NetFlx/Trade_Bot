@@ -1,5 +1,6 @@
-aiogram==3.4.1
-requests
+aiogram==3.0.0b7
+requests==2.31.0
+numpy==1.24.4
 
 
 
