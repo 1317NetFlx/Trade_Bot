@@ -1,8 +1,11 @@
+pip>=23.2
+setuptools>=68.0
+wheel>=0.41
+
 aiogram==3.4.1
 requests==2.31.0
 numpy==1.25.0
 python-dotenv
-setuptools
-wheel
+
 
 
