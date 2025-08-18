@@ -1,4 +1,1 @@
-git rm pyproject.toml
-git commit -m "Удалил пустой pyproject.toml"
-git push
 
